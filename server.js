@@ -1,9 +1,9 @@
-const { prototype } = require("events");
 const express = require("express");
+const api = require("./routes/api");
 const path = require("path");
+
 const app = express();
 const PORT = process.env.PORT || 3001;
-const api = require("./routes/api");
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
