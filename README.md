@@ -46,7 +46,7 @@ N/A
 
 ## Deployment
 
-Follow the link for the deployed application <Link>
+Follow the link for the deployed application https://hidden-meadow-67344.herokuapp.com/
 
 ## License
 
